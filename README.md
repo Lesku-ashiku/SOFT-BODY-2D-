@@ -39,4 +39,10 @@ max gravity 4 the gravity attenuant 1.008
 
 there are a lot of things u can modify to achieve different results u can change the damping stiffness the mass of the points and their amount.
 
+EVEN MORE IMPORTANT you have to set the point to a new layer thay you will create
+open the project settings>>physics 2D and disable the collider on them for them.
+
+for example my points are on the layer layerexpansion and this is what it looks like
+
+<img width="807" height="589" alt="sbotra" src="https://github.com/user-attachments/assets/5ce17345-ccd6-4116-86ee-ec0f8646ebe9" />
 
