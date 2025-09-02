@@ -23,3 +23,20 @@ when done attach the prefab  to the empty object in the blob script.
 if u want the soft body to be alble to jump then add the player movment script to the empty object
 
 if u dont want the soft body to move than set the move speed to 0.
+
+IMPORTANT
+the more the points the less the stiffness or it would act as a bloc of marble
+the less the damping the more the jelly effect
+
+
+
+in the build i am giving there are 64 points the radius is 2 the dumping is 0.01 and the stiffness 1.
+
+the jumpforce =10
+
+the  blob point move speed 5 the max velocity 4 the gravity scale doesnt matter as it will be filled later on
+max gravity 4 the gravity attenuant 1.008
+
+there are a lot of things u can modify to achieve different results u can change the damping stiffness the mass of the points and their amount.
+
+
